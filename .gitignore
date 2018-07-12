@@ -1,0 +1,4 @@
+*.pyc
+**/Resources/bin
+**/build
+**/dist
