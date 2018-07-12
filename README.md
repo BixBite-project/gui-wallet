@@ -5,7 +5,7 @@ Copyright (c) 2018, Bixbite.pro
 
 **One of the most easy-to-use, intuitive GUI (full) wallets in crypto.**
 
-![](https://www.sumokoin.org/images/sumokoin-gui-wallet-v0.0.1-b2.png)
+![](https://bixbite.pro/blockchain/wallet.jpg)
 
 
 # Installation & running from source codes
